@@ -1,0 +1,15 @@
+:root {
+    --cor-verde-escuro: #6e7f62;
+    --cor-verde: #919F88;
+    --cor-verde-claro: #C3CDBF;
+    --cor-cinza: #e0dcd9;
+}
+.navegacao {
+    background-color: var(--cor-verde-escuro);
+}
+.item_navegacao {
+    text-align: center;
+}
+.item_navegacao img {
+    width: 5%;
+}
