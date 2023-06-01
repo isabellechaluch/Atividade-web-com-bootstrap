@@ -13,3 +13,32 @@
 .item_navegacao img {
     width: 5%;
 }
+.navbar-brand img {
+    width: 20%;
+}
+.fundo {
+    background-color: var(--cor-cinza);
+}
+.slide {
+    width: 100%;
+}
+.chamada {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.637);
+}
+.texto {
+    padding: 5%;
+}
+.texto h2 {
+    color: var(--cor-verde-escuro);
+    text-align: center;
+}
+.botao {
+    width: 30%;
+    background-color: var(--cor-verde);
+}
+.img_sucu_branco {
+    padding: 4%;
+}
+.img_sucu_branco img {
+    width: 80%;
+}
